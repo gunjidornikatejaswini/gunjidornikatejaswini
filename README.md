@@ -6,6 +6,6 @@
 
 💻 Skilled in Python, Java, HTML, CSS and AI 
 
-🤝 Completed an AI internship, gained hands-on experience in AI concepts and project collaboration
+🤝 Completed an AI internship, gained hands on experience in AI concepts and project collaboration
 
 📫 Reach me at: gunjidornikatejaswini@gmail.com
